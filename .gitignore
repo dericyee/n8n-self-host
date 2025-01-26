@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Runtime data
+shared/
+backups/
+n8n/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+node_modules/
+
+# SSL certificates
+/etc/letsencrypt/ 
